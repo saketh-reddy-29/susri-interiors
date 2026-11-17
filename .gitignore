@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+**/node_modules/
+temp_3d/node_modules/
+temp_3d/dist/
+temp_3d/.aistudio/
+dist_3d/
+
+# Next.js build output (keep static _next chunks)
+.next/
+
+# Logs & temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local

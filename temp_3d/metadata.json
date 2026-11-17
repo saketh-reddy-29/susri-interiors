@@ -1,0 +1,8 @@
+{
+  "name": "NORDHUS Atelier",
+  "description": "Immersive 3D luxury interior design and architectural studio featuring a real-time interactive 3D room designer, curated residential and commercial portfolio, and bespoke spatial consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "susri-interiors",
+  "version": "1.0.0",
+  "description": "SUSRI INTERIORS - Architecture & Interior Design Studio Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "py": "python serve.py"
+  },
+  "keywords": [
+    "interior-design",
+    "architecture",
+    "portfolio",
+    "susri-interiors"
+  ],
+  "author": "Saketh Reddy",
+  "license": "ISC"
+}
+
